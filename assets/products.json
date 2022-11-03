@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "name": "Royale Aspira",
+            "imageURL": "https://assetcdn.buhlergroup.com/rendition/874601345621/0e8e8ceba9a54b9691340b0a5c73792d/-FJPG-TwebHeader_1x1-S1024x1024",
+            "brand": "PIECES",
+            "price": 1900,
+            "size" : ["S","M","L"]
+        },
+        {
+            "name": "Royale Luxury Emulsion",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPezx7SBITzFngiu4nqbUP-UDrlHA6adL8A&usqp=CAU",
+            "brand": "TAURUS",
+            "price": 490,
+            "size" : ["S","XL"]
+        },
+        {
+            "name": "Apcolite Advanced",
+            "imageURL": "https://images.indianexpress.com/2015/06/paint-main.jpg",
+            "brand": "ANTELOPE",
+            "price": 1200,
+            "size" : ["S","M","L","XL"]
+        },
+        {
+            "name": "Apcolite Premium",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCoWiLDdovUifq9AQ2-qTskxoIZ3fWAcg7g&usqp=CAU",
+            "brand": "LOLIPOP",
+            "price": 1700,
+            "size" : ["S","M","XL"]
+        }
+    ]
+}
